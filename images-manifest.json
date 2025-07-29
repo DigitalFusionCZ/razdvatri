@@ -1,0 +1,160 @@
+{
+  "generated_at": "2025-07-29T13:45:23.077Z",
+  "total_images": 22,
+  "images": [
+    {
+      "original_url": "https://www.hotel-ttc.cz/images/logo.png",
+      "file_path": "public/images/logo-hotel-ttc-restaurace.png",
+      "file_name": "logo-hotel-ttc-restaurace.png",
+      "description": "The Hotel TTC logo featuring 'Hotel TTC Restaurace' text with three stars, all in yellow against a green background, indicating the hotel and restaurant services. Context: Found in the header as the primary site logo. Represents the brand identity. Good resolution but simple graphic design.",
+      "size_bytes": 6350
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/1920x790_g51-1.jpg",
+      "file_path": "public/images/hero-hotel-exterior-winter.jpg",
+      "file_name": "hero-hotel-exterior-winter.jpg",
+      "description": "A full exterior shot of the Hotel TTC building in winter, showing its light yellow facade, gabled roof, and balconies with tables, surrounded by snow-dusted evergreens and a snowy parking lot with cars. Context: Likely a hero image or general 'about' section image. Provides a comprehensive view of the hotel's appearance and setting. Good overall lighting and shows the building's architecture.",
+      "size_bytes": 312526
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/1140x330_g9-20200121-155931.jpg",
+      "file_path": "public/images/hero-bedroom-interior-bed.jpg",
+      "file_name": "hero-bedroom-interior-bed.jpg",
+      "description": "A close-up view of a neatly made hotel bed with white and beige linens and pillows, alongside a small refrigerator and a red chair in the background, suggesting bedroom amenities. Context: Found in the 'Ubytování' (Accommodation) section, likely as a hero banner. Provides a detailed look at the room's comfort and cleanliness. Good lighting, though slightly cropped aspect ratio.",
+      "size_bytes": 181242
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g9-20200121-150737.jpg",
+      "file_path": "public/images/gallery-bedroom-mezzanine-lower.jpg",
+      "file_name": "gallery-bedroom-mezzanine-lower.jpg",
+      "description": "An interior shot of a hotel room, showing the lower level with a bed, a window with orange curtains, and a wooden staircase leading to a mezzanine. Context: Found in the 'Ubytování' (Accommodation) gallery. Illustrates the unique mezzanine room layout. Reasonable resolution for a gallery thumbnail.",
+      "size_bytes": 5219
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g9-20200121-160110.jpg",
+      "file_path": "public/images/gallery-bedroom-mezzanine-upper.jpg",
+      "file_name": "gallery-bedroom-mezzanine-upper.jpg",
+      "description": "An overhead view of the mezzanine level of a hotel room, showing a bed, a skylight, and small windows, with part of the wooden staircase in the foreground. Context: Found in the 'Ubytování' (Accommodation) gallery. Provides a perspective of the upper sleeping area. Reasonable resolution for a gallery thumbnail.",
+      "size_bytes": 18351
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g9-20200121-160200.jpg",
+      "file_path": "public/images/gallery-bedroom-amenities.jpg",
+      "file_name": "gallery-bedroom-amenities.jpg",
+      "description": "A partial view of a hotel bedroom showing a bed, a small refrigerator with a TV on top, and a wooden wardrobe. Context: Found in the 'Ubytování' (Accommodation) gallery. Highlights the in-room amenities. Reasonable resolution for a gallery thumbnail.",
+      "size_bytes": 16630
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g9-20200121-152718.jpg",
+      "file_path": "public/images/gallery-bedroom-bathroom-access.jpg",
+      "file_name": "gallery-bedroom-bathroom-access.jpg",
+      "description": "A view from a hotel bedroom, showing the bed in the foreground and a partially open door revealing a section of the bathroom beyond, possibly with a bathtub. Context: Found in the 'Ubytování' (Accommodation) gallery. Shows the room and the connection to the bathroom. Reasonable resolution for a gallery thumbnail.",
+      "size_bytes": 17593
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g9-img-5832.jpg",
+      "file_path": "public/images/gallery-bathroom-bathtub.jpg",
+      "file_name": "gallery-bathroom-bathtub.jpg",
+      "description": "A wide-angle shot of a hotel bathroom featuring a bathtub, toilet, and sink, with light green and white striped tiles and natural light from a window. Context: Found in the 'Ubytování' (Accommodation) gallery. Displays the bathroom's fixtures and design. Creative wide-angle lens, though slightly distorted.",
+      "size_bytes": 7013
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g9-5.jpg",
+      "file_path": "public/images/gallery-bathroom-shower.jpg",
+      "file_name": "gallery-bathroom-shower.jpg",
+      "description": "A wide-angle shot of a hotel bathroom, focusing on the shower cabin, sink, and toilet, with green and white striped tiles and a wooden door. Context: Found in the 'Ubytování' (Accommodation) gallery. Shows the shower area. Creative wide-angle lens, though slightly distorted.",
+      "size_bytes": 7053
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g9-82921637-2389569747815521-104214121557262336-n.jpg",
+      "file_path": "public/images/gallery-bathroom-amenities-detail.jpg",
+      "file_name": "gallery-bathroom-amenities-detail.jpg",
+      "description": "A close-up detail shot of a small bowl containing various hotel amenities like soap and packaged toiletries, placed on a white towel. Context: Found in the 'Ubytování' (Accommodation) gallery. Highlights attention to guest comfort and small details. Good focus.",
+      "size_bytes": 16136
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g9-hrs1.jpg",
+      "file_path": "public/images/gallery-bedroom-seating-area.jpg",
+      "file_name": "gallery-bedroom-seating-area.jpg",
+      "description": "An interior shot of a hotel room showing a cream-colored armchair, a small side table with a hot water kettle, a bed, and a wooden staircase. Context: Found in the 'Ubytování' (Accommodation) gallery. Displays a comfortable seating area within the room. Reasonable resolution for a gallery thumbnail.",
+      "size_bytes": 17641
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/1140x330_g10-03-cenik.jpg",
+      "file_path": "public/images/hero-hotel-terrace-summer.jpg",
+      "file_name": "hero-hotel-terrace-summer.jpg",
+      "description": "An angled view of the exterior of the Hotel TTC, highlighting the upper terrace with green parasols, set against a bright blue sky. Context: Used as a hero image, possibly for the 'Ceník' (Price List) section, but visually suitable for showcasing the building's exterior in good weather or the terrace. Good light and clear details.",
+      "size_bytes": 84124
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/1140x330_g8-IMG-20191218-142336.jpg",
+      "file_path": "public/images/hero-restaurant-bar.jpg",
+      "file_name": "hero-restaurant-bar.jpg",
+      "description": "An interior shot of Hotel TTC's bar area, featuring a long, illuminated bar counter with a full beverage fridge, decorated with plants and lanterns, and an aquarium to the left. Context: Used as a hero image for the 'Restaurace' (Restaurant) section. Provides a clear view of the bar setup, suggesting a welcoming atmosphere. Good lighting and composition.",
+      "size_bytes": 265992
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g8-IMG-20191219-143835.jpg",
+      "file_path": "public/images/gallery-restaurant-dining-area-wide.jpg",
+      "file_name": "gallery-restaurant-dining-area-wide.jpg",
+      "description": "A wide interior shot of the hotel restaurant's dining area with multiple wooden tables and chairs, and a bar counter in the background. Archways separate different sections of the space. Context: Found in the 'Restaurace' (Restaurant) gallery. Shows the overall layout and seating capacity. Good lighting.",
+      "size_bytes": 20408
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g8-IMG-20191221-155814.jpg",
+      "file_path": "public/images/gallery-restaurant-bar-seating.jpg",
+      "file_name": "gallery-restaurant-bar-seating.jpg",
+      "description": "An interior shot of the hotel restaurant/bar area, focusing on the bar counter with tall stools and part of the dining space. Context: Found in the 'Restaurace' (Restaurant) gallery. Highlights the bar seating and atmosphere. Good lighting.",
+      "size_bytes": 20900
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g8-IMG-20191218-143330.jpg",
+      "file_path": "public/images/gallery-restaurant-bar-and-dining.jpg",
+      "file_name": "gallery-restaurant-bar-and-dining.jpg",
+      "description": "An interior shot of the hotel restaurant, showing part of the bar counter extending into the dining area with tables and chairs. Context: Found in the 'Restaurace' (Restaurant) gallery. Gives a perspective of the integrated bar and dining space. Good lighting.",
+      "size_bytes": 24398
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g8-IMG-20191218-142359.jpg",
+      "file_path": "public/images/gallery-restaurant-breakfast-buffet-setup.jpg",
+      "file_name": "gallery-restaurant-breakfast-buffet-setup.jpg",
+      "description": "A corner of the restaurant area set up with a long table covered by white tablecloths, likely for a breakfast buffet, with neatly arranged cups and shelves in the background. Context: Found in the 'Restaurace' (Restaurant) gallery. Demonstrates the breakfast setup. Good lighting.",
+      "size_bytes": 19994
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g8-IMG-20191221-160210.jpg",
+      "file_path": "public/images/gallery-restaurant-interior-anchors.jpg",
+      "file_name": "gallery-restaurant-interior-anchors.jpg",
+      "description": "An interior shot of the restaurant, showing wooden tables and chairs, with decorative elements like an anchor and porthole on the far wall, creating a nautical theme. Context: Found in the 'Restaurace' (Restaurant) gallery. Captures the unique decor and atmosphere. Good lighting.",
+      "size_bytes": 19350
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g8-IMG-4243.JPG",
+      "file_path": "public/images/gallery-conference-room-event-setup.jpg",
+      "file_name": "gallery-conference-room-event-setup.jpg",
+      "description": "A spacious conference or event room set up with a long table for a formal meal or meeting, featuring colorful walls and model airplanes hanging from the ceiling. Context: Found in the 'Restaurace' (Restaurant) gallery, but visually represents 'Konferenční prostory' (Conference Facilities). Shows the versatility of the space for events. Good lighting.",
+      "size_bytes": 20403
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g8-IMG-0294.JPG",
+      "file_path": "public/images/gallery-conference-room-table-setting.jpg",
+      "file_name": "gallery-conference-room-table-setting.jpg",
+      "description": "A close-up of a table setting in a conference or event room, featuring glasses filled with a light beverage, neatly folded napkins, and decorative golden elements. Context: Found in the 'Restaurace' (Restaurant) gallery, but relates to events. Demonstrates the detailed catering setup for events. Good focus and composition.",
+      "size_bytes": 6587
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g8-1.jpg",
+      "file_path": "public/images/gallery-restaurant-burger-fries.jpg",
+      "file_name": "gallery-restaurant-burger-fries.jpg",
+      "description": "A close-up shot of a plate with a cheeseburger and a pile of french fries. Context: Found in the 'Restaurace' (Restaurant) gallery. Showcases typical food offerings. Good focus and appetizing presentation.",
+      "size_bytes": 20558
+    },
+    {
+      "original_url": "https://www.hotel-ttc.cz/files/galleries/170x110_g8-2.jpg",
+      "file_path": "public/images/gallery-restaurant-wrap-dish.jpg",
+      "file_name": "gallery-restaurant-wrap-dish.jpg",
+      "description": "A close-up shot of a wrap dish, garnished with fresh parsley, presented on a dark plate. Context: Found in the 'Restaurace' (Restaurant) gallery. Showcases typical food offerings. Good focus and appetizing presentation.",
+      "size_bytes": 15989
+    }
+  ]
+}
